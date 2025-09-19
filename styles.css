@@ -46,6 +46,58 @@
         img {
             border-radius: 10%;
         }
+
+        .foto {
+            background-color: aqua;
+        }
+
+        .imagen {
+            width: 500px;
+            height: 400px;
+            margin-right: 100px;
+            margin-left: 100px;
+        }
+
+        .contenedor {
+            display: flex;
+        }
+
+        .text {
+            font-size: 25px;
+        }
+
+        .text2 {
+            font-size: 18px;
+        }
+
+        #home1 {
+            background-color: purple;
+            margin-left: 30px;
+            margin-bottom: 10000px;
+        }
+
+        .title2 {
+            margin-left: 20px;
+        }
+
+        #text-right {
+            margin-left: 275px;
+        }
+
+        .imagen2 {
+            width: 500px;
+            height: 400px;
+            text-align: right;
+        }
+
+        .text-left {
+            font-size: 25px;
+            text-align: left;
+        }
+
+  
+
+     
     
 
 
